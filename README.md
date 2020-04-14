@@ -12,6 +12,6 @@ IP for external use
 
 Once set up  
 url: http://xx.xxx.xxx.xxx:xxxx/  
-Firtst for digit IP address for external then port
+First part digit IP address for external then port
 Webpage as sample
 ![image](https://github.com/YENCHUN-L/Set-up-router-for-external-access/blob/master/image/Test%20webpage.jpg)
